@@ -1,4 +1,4 @@
-![me2](https://user-images.githubusercontent.com/58218638/150637268-dd350e19-5efd-4937-a1d1-961420282b27.jpeg)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&testBG=true&animation=fadeIn&height=200&section=footer&text=Raymond&fontSize=90)
 
 ## THERE YOU ARE 👋. 
 ### Welcome to my profile 
