@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&testBG=true&animation=fadeIn&height=200&section=footer&text=%20Raymond&fontSize=90)
-
 ## THERE YOU ARE 👋. 
 ### Welcome to my profile 
 
