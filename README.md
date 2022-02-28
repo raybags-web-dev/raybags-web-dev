@@ -1,12 +1,11 @@
 ## THERE YOU ARE 👋. 
 ### Welcome to my profile 
 
-I'm Raymond, passionate about the internet of things. I love and enjoy working with, transforming and visualizing data from different sources as well as telling stories with it.
-
+I'm Raymond, passionate about the internet of things. I love and enjoy working with, transforming and visualizing data from different sources.
 
 1. ### Passionate About:
   - Data
-  - Wed development
+  - Web development
   - Cloud computing 
 
 2. ### Interested in:
@@ -19,9 +18,9 @@ I'm Raymond, passionate about the internet of things. I love and enjoy working w
 
 
 
-| Languages              | Frontend Deve | Backend Dev   | Database       | Data Visualization | (BaaS) && Bssd  | Testing     | Other           |
+| Languages              | Frontend Dev  | Backend Dev   | Database       | Data Visualization | (BaaS) && Bssd  | Testing     | Other           |
 | :---:                  |  :---:        |  :---:        | :---:          | :---:            |  :---:          | :---:         | :---:         |
-| JavaScript.            | ReactJs       | NodeJs        | MySQL         | CanvasJS          | Amazone (aws)   |  Jest         | Linux         |
+| JavaScript.            | ReactJs       | NodeJs        | MySQL         | CanvasJS          | Amazone (AWS)   |  Jest         | Linux         |
 | Python                 | HTML          | ExpressJs     | MongoDB       |  Kibana.          | Kubernetes      |               | Git           |
 | Groovy                 | CSS           | Hadoop        | PostgreSQL    | ChartJS.          | Bash            |               | Visual Studios |
 | X-Query                | SCSS          | Kafka         | Elasticsearch |                   | Firebase        |               | Postman        |
