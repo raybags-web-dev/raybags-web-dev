@@ -1,8 +1,8 @@
 ## THERE YOU ARE 👋. 
-I'm Raymond, passionate about the internet of things. I love and enjoy working with, transforming and visualizing data from different sources.
+I'm Raymond, passionate about the internet of things. I enjoy working with data in its different formats.
 
 1. ### Passionate About:
-  - Data
+  - Data [ ETLs, ELTs ]
   - Web development
   - Cloud computing 
 
@@ -10,11 +10,8 @@ I'm Raymond, passionate about the internet of things. I love and enjoy working w
   - Data Engineering
   - Frontend development
 
-
 ### TECHNOLOGIES
-  These are some of the technologies I know and been working with:_
-
-
+  These are some of the technologies I work with:
 
 | Languages              | Frontend Dev  | Backend Dev   | Database       | Data Visualization | (BaaS) && Bssd  | Testing     | Other           |
 | :---:                  |  :---:        |  :---:        | :---:          | :---:            |  :---:          | :---:         | :---:         |
@@ -29,17 +26,6 @@ I'm Raymond, passionate about the internet of things. I love and enjoy working w
 ### My Qualities:
 
  - [x]  Self taught
- - [x]  Self motivated
+ - [x]  Highly Motivated
  - [x]  Self made
- - [x]  Self Enthusiastic
- - [x]  Team plaer
  - [ ]  Swimmer
-
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-  
-[^note]:
-     footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
