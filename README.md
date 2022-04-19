@@ -1,4 +1,4 @@
-## Hi there 👋. 
+## Hi there 🔸🔸🔸. 
 I'm Raymond, passionate about the internet of things. I enjoy working with data in its different formats.
 
 1. ### Passionate About:
