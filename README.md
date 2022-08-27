@@ -2,13 +2,11 @@
 I'm Raymond, passionate about the internet of things. I enjoy working with data in its different formats.
 
 1. ### Passionate About:
-  - Data [ ETLs, ELTs ]
+  - Data
+  - Data
   - Web development
-  - Cloud computing 
-
-2. ### Interested in:
-  - Data Engineering
-  - Frontend development
+  - Cloud computing
+  -Bash scripting
 
 ### TECHNOLOGIES
   These are some of the technologies I work with:
@@ -19,7 +17,7 @@ I'm Raymond, passionate about the internet of things. I enjoy working with data 
 | Python                 | HTML          | ExpressJs     | MongoDB       |  Kibana.          | Kubernetes      |               | Git           |
 | Groovy                 | CSS           | Hadoop        | PostgreSQL    | ChartJS.          | Bash            |               | Visual Studios |
 | X-Query                | SCSS          | Kafka         | Elasticsearch |  RabbitMQ         | Firebase        |               | Postman        |
-| jQuery.                | Bootstrap     |               |               |                   | Heroku          |               | Oxygwn-XML-developer |
+| jQuery.                | Bootstrap     |               | Cassandra              |                   | Heroku          |               | Oxygwn-XML-developer |
 
 
 
