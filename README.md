@@ -1,12 +1,13 @@
-## Hi there 🔸🔸🔸. 
-I'm Raymond, passionate about the internet of things. I enjoy working with data in its different formats.
+## Hi. 
+Raymond here, all about the internet of things.
 
 1. ### Passionate About:
-  - Data
-  - Data
+  - Data engineering
+  - Data Integration
   - Web development
   - Cloud computing
-  -Bash scripting
+  - Bash scripting
+  - etc...
 
 ### TECHNOLOGIES
   These are some of the technologies I work with:
