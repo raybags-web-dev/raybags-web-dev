@@ -19,7 +19,7 @@ Raymond here, all about the internet of things.
 | Python                 | HTML          | ExpressJs     | MongoDB       |  Kibana.          | Kubernetes      |               | Git           |
 | Groovy                 | CSS           | Hadoop        | PostgreSQL    | ChartJS.          | Bash            |               | Visual Studios |
 | X-Query                | SCSS          | Kafka         | DynamoDb     |  RabbitMQ          | Firebase        |               | Postman        |
-| jQuery.                | Bootstrap     |               | Cassandra                         |                 | Heroku        | Jenkins        |     
+| jQuery.                | Bootstrap     |               | Cassandra                         |                 | Heroku        | | Jenkins        |     
 
 
 
