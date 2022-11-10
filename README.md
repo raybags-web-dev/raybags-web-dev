@@ -4,6 +4,7 @@ Raymond here, all about the internet of things.
 1. ### Passionate About:
   - DevOps (aws - Jenkins)
   - Data engineering
+  - Terraform
   - Data Integration
   - Web development
   - Cloud computing
