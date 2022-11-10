@@ -1,4 +1,4 @@
-## Hi. 
+## 👉🏼 just do it 👈🏽
 Raymond here, all about the internet of things.
 
 1. ### Passionate About:
