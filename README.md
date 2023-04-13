@@ -1,5 +1,4 @@
-## 👉🏼 just do it 👈🏽
-Raymond here, all about the internet of things.
+## 👉🏼Ray Bags 👈🏽
 
 1. ### Passionate About:
   - DevOps (aws - Jenkins)
