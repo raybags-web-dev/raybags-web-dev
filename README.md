@@ -18,7 +18,7 @@
 | Python                 | HTML          | ExpressJS     | MongoDB       |  Kibana.         | Gitlab          |               | Git actions   |
 | Groovy                 | CSS           |               | PostgreSQL    | ChartJS.         | Heroku          |               | Ansible       |
 | jQuery                 | Bootstrap     |               | DynamoDb      |  RabbitMQ        |                 |               | Kubernettes   |
-|                        |               |               |                                  |                 |               | Docker        |      
+|                        |               |               |                                  |                 |               | Docker        |         |      
 
 
 
