@@ -7,6 +7,8 @@
 | Infrastructure as Code | Terraform                                       |
 | Monitoring           | Datadog                                           |
 | Event Streaming      | Kafka                                             |
+| Server-side Scripting | JavaScript (Node.js), Bash                        |
+
 
 
  - [x]  Self taught
