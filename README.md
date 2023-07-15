@@ -2,9 +2,10 @@
 
 | Characteristics   | is-true | is-false |
 | ----------------- | ------- | -------- |
-| Self taught       | &#9745; | &#9746; |
-| Self made         | &#9745; | &#9746; |
-| Self improvement  | &#9745; | &#9746; |
+| Self taught       | **&#9745;** | **&#10060;** |
+| Self made         | **&#9745;** | **&#10060;** |
+| Self improvement  | **&#9745;** | **&#10060;** |
+
 
 
 
