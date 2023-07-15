@@ -6,16 +6,18 @@
 | Self made         | **&#9745;** | **&#10060;** |
 | Self improvement  | **&#9745;** | **&#10060;** |
 
-| Skills            | Proficient | Familiar |
-| ----------------- | :--------: | :------: |
-| Cloud Computing   |    [x]     |          |
-| Containerization |    [x]     |          |
-| CI/CD             |    [x]     |    [x]   |
-| Infrastructure as Code | [x] |          |
-| Monitoring        |    [x]     |    [x]   |
-| Data Pipelines    |            |    [x]   |
-| ETL               |            |    [x]   |
-| Data Warehousing  |            |    [x]   |
+| Skills               | Tools                                            | Proficient | Familiar |
+| -------------------- | ------------------------------------------------ | :--------: | :------: |
+| Cloud Computing      | AWS                                              |  **&#9745;**  |          |
+| Containerization     |                                                  |  **&#9745;**  |          |
+| CI/CD                | Git Actions, CodeBuild, CodeCommit, CodeDeploy   |  **&#9745;**  |  **&#9745;**   |
+| Infrastructure as Code | Terraform                                      |  **&#9745;**  |          |
+| Monitoring           | Datadog                                          |  **&#9745;**  |  **&#9745;**   |
+| Data Pipelines       |                                                  |              |  **&#9745;**   |
+| ETL                  |                                                  |              |  **&#9745;**   |
+| Data Warehousing     |                                                  |              |  **&#9745;**   |
+| Event Streaming      | Kafka                                            |              |  **&#9745;**   |
+        |    [x]   |
 
 
 
