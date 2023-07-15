@@ -1,8 +1,8 @@
 ## Raymond Baguma
 
-| x-tics   | Column 2 | Column 3 |
+| Characteristics   | is-true | is-false |
 | -------- | -------- | -------- |
-| Self taught    | Data 1   | Data 2   |
+| Self taught    | [x]   | [x]   |
 | Self made   | Data 3   | Data 4   |
 | Always learning new concepts | Data 3   | Data 4   |
 
