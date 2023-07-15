@@ -1,10 +1,11 @@
 ## Raymond Baguma
 
 | Characteristics   | is-true | is-false |
-| -------- | -------- | -------- |
-| Self taught    | [x]   | [x]   |
-| Self made   | Data 3   | Data 4   |
-| Always learning new concepts | Data 3   | Data 4   |
+| ----------------- | ------- | -------- |
+| Self taught       | &#9745; | &#9746; |
+| Self made         | &#9745; | &#9746; |
+| Self improvement  | &#9745; | &#9746; |
+
 
 
  - [x]  Self taught
