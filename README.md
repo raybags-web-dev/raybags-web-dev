@@ -7,10 +7,10 @@
 | Infrastructure as Code | Terraform                                       |
 | Monitoring           | Datadog, Grafana                                  |
 | Event Streaming      | Kafka                                             |
-| Server-side Scripting | JavaScript (Node.js), Bash                       |
+| Server-side          | JavaScript (Node.js), Bash                        |
 | CI/CD                | Jenkins, GitLab CI/CD, CodePipeline               |
-
-
+| Config Management    | Ansible                                           |
+| Scripting            | Bash                                              | 
 
  - [x]  Self taught
  - [x]  Self made
