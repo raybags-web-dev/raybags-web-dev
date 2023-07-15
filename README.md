@@ -5,10 +5,10 @@
 | Cloud Computing      | AWS                                               |
 | Containerization     | Docker, Kubernetes, AWS EKS                       |
 | Infrastructure as Code | Terraform                                       |
-| Monitoring           | Datadog                                           |
+| Monitoring           | Datadog, Grafana                                  |
 | Event Streaming      | Kafka                                             |
-| Server-side Scripting | JavaScript (Node.js), Bash                        |
-| CI/CD                | Jenkins, GitLab CI/CD, AWS CodePipeline            |
+| Server-side Scripting | JavaScript (Node.js), Bash                       |
+| CI/CD                | Jenkins, GitLab CI/CD, CodePipeline               |
 
 
 
