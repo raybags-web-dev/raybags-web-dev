@@ -8,6 +8,7 @@
 | Monitoring           | Datadog                                           |
 | Event Streaming      | Kafka                                             |
 | Server-side Scripting | JavaScript (Node.js), Bash                        |
+| CI/CD                | Jenkins, GitLab CI/CD, AWS CodePipeline            |
 
 
 
