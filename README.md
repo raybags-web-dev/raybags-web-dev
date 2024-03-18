@@ -5,7 +5,7 @@
 | Containerization     | Docker, Kubernetes, AWS EKS                       | **&#9745;**  |
 | Infrastructure as Code | Terraform                                       | **&#9745;**  |
 | Monitoring           | Datadog, Grafana                                  | **&#9745;**  |
-| Event Streaming      | Kafka                                             |            |
+| Event Streaming      | Kafka                                             | **&#9745;**  |          |
 | Server-side          | JavaScript (Node.js), Bash                        | **&#9745;**  |
 | CI/CD                | GitLab CI/CD, CodePipeline                        | **&#9745;**  |
 | Data Transformation  | DBT                                               | **&#9745;**  |
